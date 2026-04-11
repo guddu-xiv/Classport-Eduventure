@@ -137,7 +137,7 @@ export default function App() {
         className="w-full text-center mt-auto pt-8"
       >
         <p className="text-[9px] md:text-[10px] text-slate-300 font-bold tracking-[0.3em] md:tracking-[0.4em] uppercase">
-          &copy; 2026 Classport Eduventure Pvt Ltd
+          &copy; 2025 Classport Eduventure Pvt Ltd
         </p>
       </motion.footer>
     </div>
